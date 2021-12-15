@@ -9,7 +9,7 @@ I also have experience of working as Research Intern at IIT Kharagpur . My team 
 🤔 I’m always ready for Open source Contribution.  
 💬 I possess good knowledge in Data Structures and Algorithms, Operating systems, DBMS.  
 
-Languages and Tools🛠:
+Languages and Tools🛠:  
 C++, Python, Scikit-Learn, Tensorflow, NLTK, Git
 
 <!---Connect with me🤝:--->
