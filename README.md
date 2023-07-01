@@ -10,7 +10,7 @@ I also have experience of working as **SDE Intern at Credit Suisse**, **Research
 💬 I possess good knowledge in Data Structures and Algorithms, Operating systems, DBMS.  
 
 Languages and Tools🛠:  
-C++, Python, Scikit-Learn, Tensorflow, NLTK, Git
+C++, Data Structures, Algorithms, DBMS, Python, Scikit-Learn, Tensorflow, NLTK, Git
 
 <!---Connect with me🤝:--->
 
